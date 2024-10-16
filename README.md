@@ -6,3 +6,7 @@ This project is a social media app designed for users to upload videos, pictures
 * Image Sharing: Post and share images with others.
 * Social Interaction: Like, comment, and engage with user posts (planned feature).
 * Modern UI: Inspired by TikTok's immersive video feed and Little Red Book's content-rich design.
+
+## Tech Stack:
+* Frontend: React Native
+* Status: Under Development
